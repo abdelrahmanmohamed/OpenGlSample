@@ -12,7 +12,7 @@ from OpenGL.GLU import *
 # IMPORT OBJECT LOADER
 from objloader import *
 
-obj_filename = os.path.join(sys.path[0], "male_shirt.obj")
+obj_filename = os.path.join(sys.path[0], "nike.obj")
 
 pygame.init()
 viewport = (800,600)
